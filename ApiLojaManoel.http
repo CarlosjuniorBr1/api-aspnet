@@ -1,0 +1,6 @@
+@ApiLojaManoel_HostAddress = http://localhost:5016
+
+GET {{ApiLojaManoel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
